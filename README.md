@@ -52,7 +52,7 @@ Every production system defines a smooth manifold where points represent system 
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/runtime-homology
+git clone https://github.com/joe-arid/runtime-homology
 cd runtime-homology
 pip install -r requirements.txt
 python run_all.py
