@@ -35,7 +35,6 @@ A geometric theory of production systems — latency curvature, failure homology
 
 ## Grand Conjectures
 
-- **Runtime Riemann Hypothesis** — zeros of ζ_R(s) on Re(s)=1/2.
 - **Geometrization** — Stress manifolds decompose into eight canonical geometries.
 - **Langlands Program** — Duality between load symmetries and homological invariants.
 - **Mirror Symmetry** — Every stress manifold M has a mirror M^∨ exchanging failure cycles with complex deformations.
